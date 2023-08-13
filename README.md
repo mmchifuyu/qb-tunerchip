@@ -3,12 +3,8 @@
 
 ## Features:
 Cars handlings Boost is now Standard and not be OP anymore.
-
-
 Redesign the ui
-
 added commands for changing wallpaper and going back to default.
-
 tunes will save in database
 ## Commands :
 Changewallpaper 
@@ -17,6 +13,8 @@ resetwallpaper
 ## Dependencies
 qb-core
 
+## Screenshots
+![Tunerchip](https://cdn.discordapp.com/attachments/1053021749127696414/1140390783724302377/brave_p7oRYTjq1R.png)
 
 ## Screenshots
 
