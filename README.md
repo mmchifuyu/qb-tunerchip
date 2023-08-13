@@ -7,7 +7,6 @@ Cars handlings Boost is now Standard and not be OP anymore.
 
 Redesign the ui
 
-
 added commands for changing wallpaper and going back to default.
 tunes will save in database
 ## Commands :
